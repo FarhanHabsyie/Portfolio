@@ -259,13 +259,13 @@ export const portfolio = [
     details: [
       {
         icon: <FiFileText />,
-        title: 'Study : ',
+        title: 'Project : ',
         desc: 'Photo',
       },
       {
         icon: <FiUser />,
-        title: 'My Self : ',
-        desc: 'Photo Editing Study',
+        title: 'My Study : ',
+        desc: 'Editing',
       },
       {
         icon: <FaCode />,
@@ -274,8 +274,8 @@ export const portfolio = [
       },
       {
         icon: <FiExternalLink />,
-        title: 'My Youtube Channel : ',
-        desc: 'www.youtube.com/c/Farhanhabsyie',
+        title: 'Preview : ',
+        desc: 'Contact Me',
       },
     ],
   },
@@ -292,18 +292,18 @@ export const portfolio = [
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
+        title: 'My Study : ',
+        desc: 'Design',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'React JS',
+        title: 'Software : ',
+        desc: 'Figma',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'Contact Me',
       },
     ],
   },
@@ -320,18 +320,18 @@ export const portfolio = [
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
+        title: 'My Study : ',
+        desc: 'Editing',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'Adobe Premium',
+        title: 'Software : ',
+        desc: 'Adobe software',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'Contact Me',
       },
     ],
   },
@@ -348,20 +348,20 @@ export const portfolio = [
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
+        title: 'My Study : ',
+        desc: 'Editing',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'Adobe Premium',
+        title: 'Software : ',
+        desc: 'Adobe software',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'Contact Me',
       },
-    ],
+    ]
   },
 
   {
@@ -374,8 +374,8 @@ export const portfolio = [
         desc: 'Website',
       },
       {
-        title: 'Client : ',
-        desc: 'Dribble',
+        title: 'My Study : ',
+        desc: 'Landing Page',
       },
       {
         title: 'Language : ',
@@ -383,7 +383,7 @@ export const portfolio = [
       },
       {
         title: 'Preview : ',
-        desc: 'www.dribble.com',
+        desc: 'Contact Me',
       },
     ],
   },
@@ -400,18 +400,18 @@ export const portfolio = [
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Dribble',
+        title: 'My Study : ',
+        desc: 'Editing',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
+        title: 'Software : ',
         desc: 'Adobe Photoshop',
       },
       {
         icon: <FiExternalLink />,
         title: 'Preview : ',
-        desc: 'www.dibble.com',
+        desc: 'Contact Me',
       },
     ],
   },
